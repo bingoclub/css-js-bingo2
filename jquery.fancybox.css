@@ -76,7 +76,7 @@
 }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-	background-image: url('http://img.zing.vn/products/vendor/fancybox/fancybox_sprite.png');
+	background-image: url('https://1.bp.blogspot.com/-5F9DdcIv3us/X4amfS6tnjI/AAAAAAAAAvA/XHPD3tV7vd4l2Up1untQT2-_hq_DLSMSQCLcBGAsYHQ/s152/fancybox_sprite.png');
 }
 
 #fancybox-loading {
@@ -94,7 +94,7 @@
 #fancybox-loading div {
 	width: 44px;
 	height: 44px;
-	background: url('http://img.zing.vn/products/vendor/fancybox/fancybox_loading.gif') center center no-repeat;
+	background: url('https://1.bp.blogspot.com/-NzHJ63BztLQ/X4amz4jIHHI/AAAAAAAAAvI/IIvof8QjUFwlN_PiOu27URubF60X7VW3wCLcBGAsYHQ/s24/fancybox_loading.gif') center center no-repeat;
 }
 
 .fancybox-close {
@@ -114,7 +114,7 @@
 	height: 100%;
 	cursor: pointer;
 	text-decoration: none;
-	background: transparent url('http://img.zing.vn/products/vendor/fancybox/blank.gif'); /* helps IE */
+	background: transparent url('https://1.bp.blogspot.com/-dg1uwmmlGMM/X4ao4gixYKI/AAAAAAAAAvU/XRemvJKortYhZ-467I_Rj70QySVJQ4uWwCLcBGAsYHQ/s1/blank.gif'); /* helps IE */
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	z-index: 8040;
 }
@@ -184,7 +184,7 @@
 	overflow: hidden;
 	display: none;
 	z-index: 10000;
-	background: url('http://img.zing.vn/products/vendor/fancybox/fancybox_overlay.png');
+	background: url('https://1.bp.blogspot.com/-aGWc_Og_jw0/X4apBcLzaQI/AAAAAAAAAvY/OQUZ3gc9G-IPYmHW1BKu_2Z4nDNOfqxWQCLcBGAsYHQ/s10/fancybox_overlay.png');
 }
 
 .fancybox-overlay-fixed {
@@ -272,12 +272,12 @@ h3.Title {
 	   only screen and (min-device-pixel-ratio: 1.5){
 
 	#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-		background-image: url('http://img.zing.vn/products/vendor/fancybox/fancybox_sprite@2x.png');
+		background-image: url('https://1.bp.blogspot.com/-ILW2yK_1lj4/X4apOJslV4I/AAAAAAAAAvg/QftheTig89gCNmDenJ2Xi_rdq438tR__ACLcBGAsYHQ/s304/fancybox_sprite%25402x.png');
 		background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 
 	#fancybox-loading div {
-		background-image: url('http://img.zing.vn/products/vendor/fancybox/fancybox_loading@2x.gif');
+		background-image: url('https://1.bp.blogspot.com/-0xAKmRmaVwc/X4apq5E3MnI/AAAAAAAAAvs/OpTVMuAUFjUGnwquis5d0c1E7bMCwDR6ACLcBGAsYHQ/s48/fancybox_loading%25402x.gif');
 		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 }
